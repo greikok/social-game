@@ -3,7 +3,7 @@ export const GameData = [
   {
     "id": 1,
     "name": "Dusty",
-    "img": "../assets/img/bingo.png",
+    "img": "assets/bingo.png",
     "level": "easy",
     "lock": true,
     "type": "NUEVO"
@@ -11,7 +11,7 @@ export const GameData = [
   {
     "id": 2,
     "name": "Arie",
-    "img": "../assets/img/fbi.png",
+    "img": "assets/fbi.png",
     "level": "easy",
     "lock": true,
     "type": "ABIERTO A TODOS"
@@ -19,7 +19,7 @@ export const GameData = [
   {
     "id": 3,
     "name": "Kelley",
-    "img": "../assets/img/granja.png",
+    "img": "assets/granja.png",
     "level": "easy",
     "lock": true,
     "type": "NUEVO"
@@ -27,7 +27,7 @@ export const GameData = [
   {
     "id": 4,
     "name": "Minna",
-    "img": "../assets/img/java.png",
+    "img": "assets/java.png",
     "level": "hard",
     "lock": false,
     "type": "ABIERTO A TODOS"
@@ -35,7 +35,7 @@ export const GameData = [
   {
     "id": 5,
     "name": "Myer",
-    "img": "../assets/img/mundoslots.png",
+    "img": "assets/mundoslots.png",
     "level": "easy",
     "lock": false,
     "type": "NUEVO"
@@ -43,7 +43,7 @@ export const GameData = [
   {
     "id": 6,
     "name": "Elly",
-    "img": "../assets/img/perla.png",
+    "img": "assets/perla.png",
     "level": "easy",
     "lock": true,
     "type": "NUEVO"
@@ -51,7 +51,7 @@ export const GameData = [
   {
     "id": 7,
     "name": "Hamnet",
-    "img": "../assets/img/slot.png",
+    "img": "assets/slot.png",
     "level": "easy",
     "lock": true,
     "type": "NUEVO"
@@ -59,7 +59,7 @@ export const GameData = [
   {
     "id": 8,
     "name": "Gertrud",
-    "img": "../assets/img/granja.png",
+    "img": "assets/granja.png",
     "level": "hard",
     "lock": true,
     "type": "NUEVO"
@@ -67,7 +67,7 @@ export const GameData = [
   {
     "id": 9,
     "name": "Clarette",
-    "img": "../assets/img/troya.png",
+    "img": "assets/troya.png",
     "level": "medium",
     "lock": false,
     "type": "NUEVO"
@@ -75,7 +75,7 @@ export const GameData = [
   {
     "id": 10,
     "name": "Libbey",
-    "img": "../assets/img/vikingos.png",
+    "img": "assets/vikingos.png",
     "level": "easy",
     "lock": false,
     "type": "ABIERTO A TODOS"
